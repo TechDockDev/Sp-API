@@ -1,0 +1,33 @@
+Feed Processing Summary:
+	Number of records processed		2
+	Number of records successful		0
+
+original-record-number	sku	error-code	error-type	error-message
+0		90061	Warning	The Fulfillment Channel Code (CA, US, MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Inventory Available (CA, US, MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Handling Time (CA, US, MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Quantity (CA, US, MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Restock Date (CA, US, MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Sale End Date (MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Sale Start Date (MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Sale Price MXN (MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Stop Selling Date (MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Minimum Advertised Price (MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Your Price MXN (MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Offering Release Date (MX) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Sale End Date (CA) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Sale Start Date (CA) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Sale Price CAD (CA) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Stop Selling Date (CA) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Minimum Advertised Price (CA) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Your Price CAD (CA) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Offering Release Date (CA) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Sale End Date (US) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Sale Start Date (US) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Sale Price USD (US) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Stop Selling Date (US) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Minimum Advertised Price (US) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Your Price USD (US) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+0		90061	Warning	The Offering Release Date (US) field heading is invalid, so values in this field were ignored. To correct this error, download the template again and use the new copy, or fix the field heading in your existing file.
+1	skldjf	99001	Error	A value is required for the "Product Name" field.
+2	klshdf	99001	Error	A value is required for the "Product Name" field.

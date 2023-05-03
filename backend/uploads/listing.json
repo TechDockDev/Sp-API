@@ -1,0 +1,129 @@
+{
+  "attributes": {
+    "condition_type": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "material": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "department": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "color": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "item_type_keyword": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "externally_assigned_product_identifier": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "product_description": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "merchant_suggested_asin": {
+      "value": "1234567890",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "item_type_name": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "supplier_declared_material_regulation": {
+      "value": "bamboo",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "supplier_declared_dg_hz_regulation": {
+      "value": "waste",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "country_of_origin": {
+      "value": "IN",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "item_name": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "bullet_point": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "item_package_weight": {
+      "value": "14.89",
+      "unit": "pounds",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "batteries_required": {
+      "value": "no",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "item_package_dimensions": {
+      "length": {
+        "unit": "inches",
+        "value": "10"
+      },
+      "width": {
+        "unit": "inches",
+        "value": "10"
+      },
+      "height": {
+        "unit": "inches",
+        "value": "10"
+      },
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "brand": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "model_number": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "style": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "model_name": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "fabric_type": {
+      "value": "new_new",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "unit_count": {
+      "value": "72.0",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "cpsia_cautionary_statement": {
+      "value": "no_warning_applicable",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "number_of_boxes": {
+      "value": "1",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "included_components": {
+      "value": "none",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "power_source_type": {
+      "value": "hand_powered",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    "manufacturer": {
+      "value": "LION",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  }
+}
+
